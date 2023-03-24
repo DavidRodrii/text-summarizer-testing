@@ -12,7 +12,6 @@ git clone https://github.com/DavidRodrii/text-summarizer-testing
 ```
 cd text-summarizer-testing
 python -m pip install -r requirements.txt
-
 ```
 
 3. Download NLTK Data
@@ -23,7 +22,6 @@ Follow the NLTK Data download steps on: [https://www.nltk.org/data.html](https:/
 ```
 import nltk
 nltk.download()
-
 ```
 
 4. Run the python test code with the command:
