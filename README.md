@@ -2,7 +2,7 @@
 Informal fork of @Imeulen's [SummarizeText](https://github.com/lmeulen/SummarizeText) Repo
 
 ## Getting started:
-1. Clone the repo:
+1. Clone the [repo](https://github.com/DavidRodrii/text-summarizer-testing):
 ```
 git clone https://github.com/DavidRodrii/text-summarizer-testing
 
