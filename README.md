@@ -10,6 +10,7 @@ git clone https://github.com/DavidRodrii/text-summarizer-testing
 
 2. Install the python dependencies via `requirements.txt`:
 ```
+cd text-summarizer-testing
 python -m pip install -r requirements.txt
 
 ```
